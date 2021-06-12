@@ -4,4 +4,4 @@ This repo contains my first project as I work towards learning and attaining Res
 
 You can view the project live here: https://richie-omondi.github.io/Robert-Greene-Tribute-Page/
 
-Enjoy! :)
+Enjoy! 🤓
